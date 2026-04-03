@@ -1,0 +1,11 @@
+crmls_listed.py
+crmls_sold.py
+
+# 原始数据
+raw/
+
+# 环境变量 / 密钥
+.env
+
+# Mac系统文件
+.DS_Store

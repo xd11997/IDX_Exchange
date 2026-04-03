@@ -1,0 +1,7 @@
+{
+  "files_processed": 27,
+  "rows_merged": 853424,
+  "cols_merged": 75,
+  "report_csv": "cleaning_report.csv",
+  "merged_csv": "merged_cleaned.csv"
+}
